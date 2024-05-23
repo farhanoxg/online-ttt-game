@@ -1,3 +1,6 @@
+*{
+    overflow: hidden;
+}
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -7,7 +10,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
-    overflow: hidden;
+   
 }
 
 .loading {
