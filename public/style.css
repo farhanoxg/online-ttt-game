@@ -93,7 +93,7 @@ button {
     font-weight: 600;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 840px) {
     .board {
         grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
         gap: 5px;
